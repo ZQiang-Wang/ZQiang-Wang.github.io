@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## <strong> <i style="color:#e74d3c">{{ fdgdfhdf }}</i></strong>
+## <i style="color:#e74d3c">fdgdfhdf</i>
 
 I am a Ph.D. student at ...
 
