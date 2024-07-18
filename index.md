@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## <i style="color:#e74d3c">fdgdfhdf</i>
+## <i style="color:#e74d3c; font-size: 20px;">fdgdfhdf</i>
 
 I am a Ph.D. student at ...
 
