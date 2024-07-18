@@ -6,6 +6,10 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
+## About Me
+
+I am a Ph.D. student at ...
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
