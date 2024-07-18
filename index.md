@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## <p style="color: red; font-size: 20px;">12345</p>
+## <strong> <i style="color:#e74d3c">{{ fdgdfhdf }}</i></strong>
 
 I am a Ph.D. student at ...
 
