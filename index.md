@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## <i style="color:#e74d3c; font-size: 40px;">I am looking for opportunities for post-doc positions^_^</i>
+## <i style="color:#e74d3c; font-size: 40px;">I am looking for opportunities for post-doc positions</i>< style="color:#e74d3c; font-size: 40px;">I am looking for opportunities for post-doc positions</>
 
 
 ## About Me
