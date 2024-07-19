@@ -25,7 +25,7 @@ University of Electronic Science and Technology of China
 ## Research Experiences
 
 - **2022.10-2024.05, Visiting Ph.D. Student** in
-Tampere University, **Supervisor**: [Prof. Mikko Valkama](https://scholar.google.fi/citations?user=r6pSwLYAAAAJ&hl=en) and **Co-supervisor**: Prof. Bo Tan
+Tampere University, **Supervisor**: [Prof. Mikko Valkama](https://www.tuni.fi/en/mikko-valkama) and **Co-supervisor**: [Prof. Bo Tan](https://www.tuni.fi/en/bo-tan)
 
 {% include_relative _includes/publications.md %}
 
