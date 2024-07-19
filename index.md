@@ -7,12 +7,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I completed my PhD degree in information and communication engineering from UESTC in June of 2024. I have a strong background in localization and parameter estimation. During my academic journey, I have developed a keen interest in computationally efficient direct position determination methods and was deeply involved in a project focused on channel state information-based localization.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Direct position determination**, Indoor positioning, Array signal processing, Joint angle and delay estimation, Quantized signal processing, Deep unfolding technique, near-field localization and sensing
+
 
 ## News
 
