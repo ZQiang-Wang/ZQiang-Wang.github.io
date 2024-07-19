@@ -17,10 +17,7 @@ I completed my PhD degree in information and communication engineering from UEST
 ## Education
 
 - **2017.09-2024.06, MSc. and PhD.**
-
-University of Electronic Science and Technology of China
-
-**Supervisor**: Prof. Qun Wan
+University of Electronic Science and Technology of China **Supervisor**: Prof. Qun Wan
 
 {% include_relative _includes/publications.md %}
 
