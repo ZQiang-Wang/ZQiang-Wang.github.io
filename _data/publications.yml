@@ -1,7 +1,7 @@
 main:
 
   - title: Majorization–Minimization Based Direct Localization Using One-Bit Channel Measurements
-    authors: <strong>Ziqiang Wang</strong>, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun WanZiqiang Wang, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun WanZiqiang Wang, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun Wan
+    authors: <strong>Ziqiang Wang</strong>, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun Wan
     #conference_short: MICCAI
     conference: IEEE Wireless Communications Letters <strong>(IEEE WCL)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10454579
@@ -19,5 +19,10 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
    # notes: Early Accept
+
+    - title: Beamspace joint azimuth, elevation, and delay estimation for large-scale MIMO-OFDM system
+    authors: <strong>Ziqiang Wang</strong>, Lei Xie, Qun Wan
+    #conference_short: MICCAI
+    conference: IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM)</strong>, 2023.
 
 
