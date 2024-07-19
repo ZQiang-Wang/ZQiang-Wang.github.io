@@ -11,7 +11,7 @@ I completed my PhD degree in information and communication engineering from UEST
 
 ## Research Interests
 
-- **Direct position determination**, Indoor positioning, Array signal processing, Joint angle and delay estimation, Quantized signal processing, Deep unfolding technique, near-field localization and sensing
+- **Direct position determination**, Indoor positioning, Array signal processing, Joint angle and delay estimation, Quantized signal processing, Deep unfolding technique, Near-field localization and sensing
 
 
 ## Education
