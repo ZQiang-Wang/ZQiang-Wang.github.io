@@ -1,10 +1,10 @@
 main:
 
   - title: Majorization–Minimization Based Direct Localization Using One-Bit Channel Measurements
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: <strong>Ziqiang Wang</strong>, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun WanZiqiang Wang, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun WanZiqiang Wang, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun Wan
     #conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    conference: IEEE Wireless Communications Letters <strong>(IEEE WCL)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10454579
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
