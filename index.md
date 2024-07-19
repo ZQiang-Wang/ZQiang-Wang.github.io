@@ -4,7 +4,6 @@ layout: homepage
 
 ## <i style="color:#e74d3c; font-size: 40px;">I am looking for the post-doc position!!!</i>
 
-I am a Ph.D. student at ...
 
 ## About Me
 
