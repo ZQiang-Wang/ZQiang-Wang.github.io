@@ -1,6 +1,6 @@
 main:
 
-  - title: Majorization–Minimization Based Direct Localization Using One-Bit Channel Measurements
-    authors: <strong>Ziqiang Wang</strong>, Bo Tan, Elena Simona Lohan, Lihua Ni, Mikko Valkama, Qun Wan
-    conference_short: IEEE WCL
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  - title: Joint Multipath Channel Estimation and Array Channel Inconsistency Calibration for Massive MIMO Systems
+    authors: <strong>Yongtai Yin</strong>, Yuexian Wang*, Neeraj Kumar, Ling Wang, and Joel J. P. C. Rodrigues (*Corresponding authors)
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal, 2024. 2023.
