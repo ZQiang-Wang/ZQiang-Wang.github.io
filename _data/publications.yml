@@ -20,16 +20,34 @@ main:
     #image: ./assets/img/teaser_example_2.png
    # notes: Early Accept
 
-    # - title: Beamspace joint azimuth, elevation, and delay estimation for large-scale MIMO-OFDM system
-    # authors: <strong>Ziqiang Wang</strong>, Lei Xie, Qun Wan
-    # #conference_short: MICCAI
-    # conference: IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM)</strong>, 2023.
-    # pdf: https://ieeexplore.ieee.org/abstract/document/10109767
+  - title: Beamspace joint azimuth, elevation, and delay estimation for large-scale MIMO-OFDM system
+    authors: <strong>Ziqiang Wang</strong>, Lei Xie, Qun Wan
+    #conference_short: MICCAI
+    conference: IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10109767
 
-    # - title: Beamspace joint azimuth, elevation, and delay estimation for large-scale MIMO-OFDM system
-    # authors: <strong>Ziqiang Wang</strong>, Lei Xie, Qun Wan
-    # #conference_short: MICCAI
-    # conference: IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM)</strong>, 2023.
-    # pdf: https://ieeexplore.ieee.org/abstract/document/10109767
+  - title: A Computationally Efficient Direct Position Determination Algorithm Based on OFDM System
+    authors: <strong>Ziqiang Wang</strong>, Kegang Hao, Yimao Sun, Lei Xie, Qun Wan
+    #conference_short: MICCAI
+    conference: IEEE Communications Letters <strong>(IEEE CL)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9996398
+
+  - title: Fast copula-based fusion of correlated decisions for distributed radar detection
+    authors: Lihua Ni, Di Zhang, <strong>Ziqiang Wang</strong>, Jing Liang, Jie Zhuang, Qun Wan
+    #conference_short: MICCAI
+    conference: Signal Processing <strong>(SP)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0165168422002158
+
+  - title: A modest power consumption maximum likelihood direct position determination approach for multiple targets with moving sensor arrays
+    authors: <strong>Ziqiang Wang</strong>, Yimao Sun, Qun Wan, Lei Xie, Ning Liu
+    #conference_short: MICCAI
+    conference: IEEE Sensors Journal, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9908302
+
+  - title: High resolution joint angle and delay estimation using IEEE 802.11 ac
+    authors: <strong>Ziqiang Wang</strong>, Qun Wan, Zongquan Wang, Yujun Zhu
+    #conference_short: MICCAI
+    conference: 2021 IEEE 94th Vehicular Technology Conference <strong>(VTC2021-Fall)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9625553
 
 
