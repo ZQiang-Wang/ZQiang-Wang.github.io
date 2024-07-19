@@ -16,15 +16,15 @@ I completed my PhD degree in information and communication engineering from UEST
 
 ## Education
 
-- **2017.09-2024.06, MSc. and PhD.**
+- **2017.09-2024.06, MSc. and PhD.** in
 University of Electronic Science and Technology of China, **Supervisor**: Prof. Qun Wan
 
-- **2012.09-2016.06, BSc.**
+- **2012.09-2016.06, B.E.** in
 University of Electronic Science and Technology of China
 
 ## Research Experiences
 
-- **2022.10-2024.05, Visiting Ph.D. Student**
+- **2022.10-2024.05, Visiting Ph.D. Student** in
 Tampere University, **Supervisor**: Prof. Mikko Valkama and **Co-supervisor**: Prof. Bo Tan
 
 {% include_relative _includes/publications.md %}
