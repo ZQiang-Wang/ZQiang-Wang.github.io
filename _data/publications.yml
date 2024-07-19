@@ -10,7 +10,7 @@ main:
     #image: ./assets/img/teaser_example_2.png
    # notes: Early Accept
 
-     - title: An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts
+  - title: An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts
     authors: <strong>Ziqiang Wang</strong>, Yimao Sun, Lei Xie, Ning Liu, Qun Wan
     #conference_short: MICCAI
     conference: IEEE Transactions on Vehicular Technology <strong>(IEEE TVT)</strong>, 2023.
